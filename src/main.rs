@@ -3,7 +3,7 @@
 #![no_std]
 #![no_main]
 
-extern crate bootload_precompiled;
+extern crate bootloader_precompiled;
 
 use core::intrinsics;
 use core::panic::PanicInfo;
